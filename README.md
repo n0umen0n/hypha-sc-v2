@@ -1,5 +1,3 @@
-Here's your text formatted for a GitHub README:
-
 # Contract Addresses on BASE Network
 
 ## Proxy Contracts
