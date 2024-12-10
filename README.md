@@ -1,6 +1,6 @@
 # Contract Addresses on BASE Network
 
-## Proxy Contracts
+## Proxy Contracts (16 deployed on Base mainnet)
 
 1. **Proposals**: `0x9C0563DAc7fa73875aEf56807782CCC7dE8df65b`
 2. **DAO Space Factory**: `0xff6006c67803a380Db25230F1aEc605790C405a1`
