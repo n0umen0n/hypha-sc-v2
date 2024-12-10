@@ -12,25 +12,29 @@ Token balance (join method) - 0x26C13f5348151486D5A0316A92fdBa983b1a754b
 Token factory - 0xd901D205F6BedDDF560d14Fb1c2e1b1785F3b47f
 Voting power (ERC20) - 0xfE22472B3df08654d1f3be473BCDa91F54f0E637
 Voting Power Directory - 0xaAF3e970ae7A0827217A913046e9a7FCd021Ea33 
-
 Work - 0x228CE0ad604305b0053764De9CBa612d22fCbeD5 
 Exit method directory - 0xca0baa79643b1fCEC918592F11ff57F16c5f5C62 
 No Exit - 0x7D752a0069fefE9E8DA39E46Fa9fa16e164Fd39a 
 Exit method token check - 0xb0D72FC1a7227C09091937e88deCb849e1457888    
 
+
 Voting power directory:  
+
 1 - 1M1V
 2 - Token based  
 
+
 Join directory:  
+
 1 - Invite system 
 2 - Open join
 3 - Token balance join 
 
-Exit directory:  
 
+Exit directory:  
 1 - Only through proposal
 2 - Via token balance check
 3 - Can’t remove    
+
 
 Executor:  SpaceID 9 - 0xDB6b07b9eca2cbB8EDA8D1f0747D2C51f1C938aC
